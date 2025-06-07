@@ -120,7 +120,6 @@ const Portfolio = () => {
           </div>
           <div className="hero-image">
             <div className="profile-container">
-              <img src="/pic.jpg" alt="Sohan H G" className="profile-image" />
             </div>
           </div>
         </div>
