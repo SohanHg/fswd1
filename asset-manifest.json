@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fswd1/static/css/main.4cabce26.css",
+    "main.js": "/fswd1/static/js/main.203dbdad.js",
+    "static/js/453.83234151.chunk.js": "/fswd1/static/js/453.83234151.chunk.js",
+    "index.html": "/fswd1/index.html",
+    "main.4cabce26.css.map": "/fswd1/static/css/main.4cabce26.css.map",
+    "main.203dbdad.js.map": "/fswd1/static/js/main.203dbdad.js.map",
+    "453.83234151.chunk.js.map": "/fswd1/static/js/453.83234151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cabce26.css",
+    "static/js/main.203dbdad.js"
+  ]
+}
